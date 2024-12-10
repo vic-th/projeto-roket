@@ -30,8 +30,8 @@ body {
 }
 
 #caixa {
-  width: 588px;
-
+  width: 100%;
+  max-width: 588px;
   margin: 72px auto 0px;
 }
 
